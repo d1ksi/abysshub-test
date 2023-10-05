@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abysshub-test/static/css/main.680e114a.css",
+    "main.js": "/abysshub-test/static/js/main.478ae5d9.js",
+    "index.html": "/abysshub-test/index.html",
+    "main.680e114a.css.map": "/abysshub-test/static/css/main.680e114a.css.map",
+    "main.478ae5d9.js.map": "/abysshub-test/static/js/main.478ae5d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680e114a.css",
+    "static/js/main.478ae5d9.js"
+  ]
+}
